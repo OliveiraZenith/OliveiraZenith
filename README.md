@@ -9,7 +9,9 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=OliveiraZenith&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraZenith&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
-  ---
+
+---
+
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=OliveiraZenith&icon=4&color=0)](https://visitcount.itsvg.in)
 </div>
